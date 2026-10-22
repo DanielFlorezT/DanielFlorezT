@@ -1,5 +1,7 @@
 # Daniel Florez Thomas
 
+![Identidad DFT](https://raw.githubusercontent.com/DanielFlorezT/portafolio/main/github-banner.png)
+
 ### Consultor experto en análisis de datos · Economía · Tecnología
 
 Soy economista y magíster en Inteligencia Analítica de Datos de la Universidad de los Andes. Conecto el análisis económico con los datos y la tecnología para resolver problemas, automatizar tareas y construir productos de información.
