@@ -4,7 +4,7 @@
 
 Soy economista y magíster en Inteligencia Analítica de Datos de la Universidad de los Andes. Conecto el análisis económico con los datos y la tecnología para resolver problemas, automatizar tareas y construir productos de información.
 
-[**Portafolio profesional ↗**](https://dft-daniel-florez.daniel9florez.chatgpt.site/portafolio/) · [**Servicios y contacto ↗**](https://dft-daniel-florez.daniel9florez.chatgpt.site/) · [**Hoja de vida PDF ↗**](https://dft-daniel-florez.daniel9florez.chatgpt.site/archivos/CV_Daniel_Florez_Thomas.pdf)
+[**Portafolio profesional ↗**](https://daniel-florez.pages.dev/portafolio/) · [**Servicios y contacto ↗**](https://daniel-florez.pages.dev/) · [**Hoja de vida PDF ↗**](https://daniel-florez.pages.dev/archivos/CV_Daniel_Florez_Thomas.pdf)
 
 ## Qué aporto
 
@@ -19,9 +19,9 @@ Actualmente soy **consultor experto en análisis de datos en 3iS, proyecto EVIDE
 
 | Espacio | Qué encontrarás |
 | --- | --- |
-| [Portafolio web](https://dft-daniel-florez.daniel9florez.chatgpt.site/portafolio/) | Casos de GEIH, crédito agropecuario, desplazamiento, experiencia institucional y trayectoria. |
+| [Portafolio web](https://daniel-florez.pages.dev/portafolio/) | Casos de GEIH, crédito agropecuario, desplazamiento, experiencia institucional y trayectoria. |
 | [Portafolio en GitHub](https://github.com/DanielFlorezT/portafolio) | Casos documentados, métodos, fuentes, contribución y límites. |
-| [Servicios](https://dft-daniel-florez.daniel9florez.chatgpt.site/) | Soluciones para personas, microempresas y equipos: datos, automatización y herramientas a medida. |
+| [Servicios](https://daniel-florez.pages.dev/) | Soluciones para personas, microempresas y equipos: datos, automatización y herramientas a medida. |
 | [Proyectos previos universitarios](https://github.com/DanielFlorezT/proyectos-previos-universitarios) | Archivo académico con repositorios originales y créditos de equipo. |
 
 ## Conecta conmigo
