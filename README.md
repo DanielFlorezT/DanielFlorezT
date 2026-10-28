@@ -1,6 +1,6 @@
 # Daniel Florez Thomas
 
-![Identidad DFT](https://raw.githubusercontent.com/DanielFlorezT/portafolio/main/github-banner.png)
+![Identidad DFT](github-banner.png)
 
 ### Consultor experto en análisis de datos · Economía · Tecnología
 
@@ -22,7 +22,6 @@ Actualmente soy **consultor experto en análisis de datos en 3iS, proyecto EVIDE
 | Espacio | Qué encontrarás |
 | --- | --- |
 | [Portafolio web](https://daniel-florez.pages.dev/portafolio/) | Casos de GEIH, crédito agropecuario, desplazamiento, experiencia institucional y trayectoria. |
-| [Portafolio en GitHub](https://github.com/DanielFlorezT/portafolio) | Casos documentados, métodos, fuentes, contribución y límites. |
 | [Servicios](https://daniel-florez.pages.dev/) | Soluciones para personas, microempresas y equipos: datos, automatización y herramientas a medida. |
 | [Proyectos previos universitarios](https://github.com/DanielFlorezT/proyectos-previos-universitarios) | Archivo académico con repositorios originales y créditos de equipo. |
 
